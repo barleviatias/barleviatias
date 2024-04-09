@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25" alt="hey"/></h1>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25" alt="hey"/></h1>
 
 ###
 <div align="center">
