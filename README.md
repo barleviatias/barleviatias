@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm from Yoqneam Illit <br><br>- 🔭 I’m working as student at Radware<br>- 📚 I'm currently learning Bs.c in computer science <br>- ⚡ In my free time I like to hear podcasts</p>
 
 ###
 
